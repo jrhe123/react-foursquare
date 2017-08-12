@@ -1,0 +1,8 @@
+export default {
+
+	TEST: 'TEST',
+	SELECT_VENUE: 'SELECT_VENUE',
+
+
+	VENUES_RECEIVED: 'VENUES_RECEIVED'
+}
